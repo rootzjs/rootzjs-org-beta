@@ -63,7 +63,7 @@ module.exports = (env, options) => {
         },
         output: {
             path: path.resolve(__dirname, 'docs'),
-            publicPath: 'https://rootzjs.org/',
+            publicPath: 'https://beta.rootzjs.org/',
             //filename: 'bundle.js',
             libraryTarget: 'umd',
             umdNamedDefine: true,
