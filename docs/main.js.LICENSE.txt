@@ -47,3 +47,14 @@ object-assign
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+
+/** @license RootzJs v2.0.23
+           ** @author Trishanth Naidu
+           ** @github https://github.com/rootzjs/core v2.0.23
+           * react-jsx-dev-runtime.development.js
+           * Copyright 2019 Trishanth Naidu
+           * Copyright (c) Rootz Js,and its affiliates.
+           *
+           * This source code is licensed under the MIT license found in the
+           * LICENSE file in the root directory of this source tree.
+           */
