@@ -1,0 +1,12 @@
+{
+    "todos": [
+        {
+            "completed": "false",
+            "name": "Learning Rootz JS"
+        },
+        {
+            "completed": "false",
+            "name": "Create a React-Rootz App"
+        }
+    ]
+}

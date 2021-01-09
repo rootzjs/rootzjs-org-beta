@@ -1,0 +1,18 @@
+{
+    "english": {
+        "title": "Introduction",
+        "subText1": "Rootz JS is a centralized state management tool for React apps."
+    },
+    "spanish": {
+        "title": "Introducción",
+        "subText1": "Rootz JS is a centralized state management tool for React apps."
+    },
+    "hindi": {
+        "title": "परिचय",
+        "subText1": "रूटज़ जेएस रिएक्ट ऐप्स के लिए एक केंद्रीकृत राज्य प्रबंधन उपकरण है।"
+    },
+    "marathi": {
+        "title": "परिचय",
+        "subText1": "Rootz JS is a centralized state management tool for React apps."
+    }
+}

@@ -1,0 +1,1 @@
+(this.webpackChunkrootzjs_org=this.webpackChunkrootzjs_org||[]).push([[908],{71908:function(o,t,r){"use strict";r.r(t),t.default=r.p+"images/rootz-logo-copyright.png"}}]);
